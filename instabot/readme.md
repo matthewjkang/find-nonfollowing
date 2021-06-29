@@ -1,4 +1,5 @@
 very simple script to see who does not follow you back
+
 it will output the results as a text file on your machine, probably in your user folder 
 
 to run, open up your terminal and find the instabot file.
